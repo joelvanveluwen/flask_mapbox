@@ -40,3 +40,9 @@ Browse to [localhost](http://127.0.0.1:5000) for the index page
 
 [Mapbox GL page](http://127.0.0.1:5000/mapbox_gl)
 ![](doc/mapbox_gl.png)
+
+# To do
+
+* Map out long lats for Indonesia trip.
+* Can host, look into it
+* Add image links
