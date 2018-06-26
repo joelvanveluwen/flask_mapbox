@@ -25,7 +25,7 @@ Make sure you have npm and bower installed on your machine (for javascript depen
 
     bower install
 
-Create `setting.py` file for the MAPBOX_ACCESS_KEY:
+Create `settings.py` file for the MAPBOX_ACCESS_KEY:
 
 	MAPBOX_ACCESS_KEY = '<MAPBOX_ACCESS_KEY>'	
 
